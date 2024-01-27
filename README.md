@@ -1,7 +1,7 @@
 ## Preparacão Certificacão Python
-### Dicas para conseguir a certificação do python institute.
+### Dicas sobre certificação do Python institute.
 
-#### Python na Cisco Academy
+
 #### Link de venda https://ums.edube.org/products/pcep-30-0x-practice-test-compendium
 #### link da Página do PCEP https://pythoninstitute.org/pcep
 
